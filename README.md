@@ -1,2 +1,2 @@
 # Bootstrap-Project-iCoder-Webpages-
-Swapping multiple pages clicked on specific functionality button
+Jump multiple pages clicked on specific functionality buttons
